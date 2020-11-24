@@ -5,4 +5,4 @@ The first 3 items on the todo list will instantly be populated with free Chuck N
 
 
 
-![](/Capture.jpg)
+![](/Capture.JPG)
